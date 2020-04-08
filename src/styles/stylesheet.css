@@ -1,0 +1,42 @@
+html {
+    background-color: black;
+    
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px; 
+    color: white;
+    padding-top: 50px;
+    
+}
+
+p {
+    text-align: center;
+}
+
+.navbar {
+    background-color: black;
+}
+
+
+.float {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+
+i {
+    color: white;
+    margin-left: 10px;
+}
