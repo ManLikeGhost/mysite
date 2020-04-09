@@ -3,6 +3,7 @@
   "name": "mysite",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "engines": {
     "npm": "6.4.1",
     "node": "11.3.0"
