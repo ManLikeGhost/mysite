@@ -1,8 +1,12 @@
 {
-  "homepage": "https://manlikeghost.github.io/mysite", 
+  "homepage": "https://manlikeghost.github.io/mysite",
   "name": "mysite",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.4.1",
+    "node": "11.3.0"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
