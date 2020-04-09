@@ -7,6 +7,7 @@ import Main from './Components/Main';
 
 ReactDOM.render(
   <React.StrictMode>
+    
     <Main />
     
   </React.StrictMode>,
